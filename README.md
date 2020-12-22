@@ -1,6 +1,8 @@
 # HOWFAR
 Maps direction on your terminal
 
+![Screenshot](screenshot.png)
+
 ## Requrements
 Please make sure that you are using **Zsh** instead of bash `zsh --version`. **Zsh** is a powerful shell that operates as both an interactive shell and as a scripting language interpreter. While being compatible with the POSIX sh (not by default, only if issuing emulate sh), it offers advantages such as improved tab completion and globbing.
 
